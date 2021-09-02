@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+#thirdDiv{
+    height: 800px;
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+    border: 2px black solid;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    color: red;
+}
+.titulos {
+    color: black;
+}
